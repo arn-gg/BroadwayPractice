@@ -51,3 +51,4 @@ a.append(6)
 
 c=a+b
 print(c)
+print(c)
